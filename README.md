@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am looking for a job
-contact me: thaivanlam373@gmail.com
+- I am looking for a job
+- contact me: thaivanlam373@gmail.com
